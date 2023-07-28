@@ -1,0 +1,85 @@
+.bgimg{
+    background-image:url('https://res.cloudinary.com/dxujeg5en/image/upload/v1656401602/thumb-1920-1072652_r7pzdy.jpg');
+    background-size:cover;
+    height:120vh;
+}
+.netflixlogo{
+    margin:17px;
+    margin-bottom:20px;
+}
+a{
+    text-decoration: none;
+}
+.btnstyle{
+    background-color:red;
+    border:none;
+    padding:9px;
+    color:white;
+    border-radius:5px;
+    margin:17px;
+}
+.btnstyle:hover{
+    box-shadow: 0 0 50px black;
+    margin-left:55px;
+}
+.btnstyle1{
+    color:white;
+    padding:9px;
+    border:solid;
+    border-color:white;
+    border-width: 1px;
+    background-color:#ffffff00;
+    border-radius:5px;
+    margin:17px;
+}
+.btnstyle1:hover{
+    box-shadow: 0 0 50px black;
+
+}
+.hello{
+    margin-top:5px;
+    margin-left:55px;
+    height:140px;
+}
+.first{
+    color:white;
+    margin-top:10px;
+    margin-left:55px;
+    font-size: 20px ;
+}
+.first1{
+    margin-top:5px;
+    margin-left:55px;
+    text-size-adjust:20px;
+    color:grey;
+}
+.fir2{
+    color:white;
+    margin-top:3px;
+    margin-left:55px;
+    text-size-adjust:20px;
+}
+.pik{
+    color:white;
+    margin-top:5px;
+    margin-left:55px;
+    text-size-adjust:20px;
+}
+.btnstyle2{
+    background-color:red;
+    border:none;
+    padding:9px;
+    color:white;
+    border-radius:5px;
+    margin:17px;
+    width:110px;
+}
+.btnstyle2:hover{
+    transform:scaleX(1.09);
+}
+.web{
+    margin-left:30px;
+}
+a{
+    text-decoration: none;
+}
